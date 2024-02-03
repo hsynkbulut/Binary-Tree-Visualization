@@ -13,28 +13,28 @@ Bu masaüstü uygulaması, bilgisayar bilimlerinde önemli bir yer tutan Binary 
   <tr>
     <td>1</td>
   <tr>
-    <td><img src="Ekran-Goruntuleri/1.jpg" width="700" height="400"></td> 
+    <td><img src="Ekran-Goruntuleri/1.jpg" width="900" height="430"></td> 
  </table>
 
 <table>
   <tr>
     <td>2</td>
   <tr>
-    <td><img src="Ekran-Goruntuleri/2.jpg" width="700" height="400"></td>
+    <td><img src="Ekran-Goruntuleri/2.jpg" width="900" height="430"></td>
  </table>
 
  <table>
   <tr>
     <td>3</td>
   <tr>
-    <td><img src="Ekran-Goruntuleri/3.jpg" width="700" height="400"></td>
+    <td><img src="Ekran-Goruntuleri/3.jpg" width="900" height="430"></td>
  </table>
 
  <table>
   <tr>
     <td>4</td>
   <tr>
-    <td><img src="Ekran-Goruntuleri/4.jpg" width="700" height="400"></td>
+    <td><img src="Ekran-Goruntuleri/4.jpg" width="900" height="430"></td>
  </table>
 
 ---

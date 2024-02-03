@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BinaryTreeUygulama.src.ApplicationTree.BinarySearchTree">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAIAAAAAAgAgAAgBAAAAAAAAAAAAAAAAAAAgAE=</HashCode>
+      <FileName>src\ApplicationTree\BinarySearchTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryTreeUygulama.src.ApplicationTree.NodeInfo">
+    <Position X="5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAIAAAEBAAAEAEEGACAAAAAAAAAAEAAAUAAAAFAAAA=</HashCode>
+      <FileName>src\ApplicationTree\NodeInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryTreeUygulama.src.ApplicationTree.TreeNode">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAgAAEAIAAQAAABAAAACCAAAAgAAAAAAA=</HashCode>
+      <FileName>src\ApplicationTree\TreeNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
